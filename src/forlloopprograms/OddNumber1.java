@@ -1,4 +1,4 @@
-package OddNumber;
+package forlloopprograms;
 
 public class OddNumber1 {
     public static void main(String[] args){
