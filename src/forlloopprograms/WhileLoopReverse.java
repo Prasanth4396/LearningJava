@@ -2,7 +2,7 @@ package forlloopprograms;
 
 public class WhileLoopReverse {
     public static void main(String[] args){
-        int n=786,lastDigit;
+        int n=4136,lastDigit;
         int rev=0;
        while(n!=0){
            lastDigit=n%10;
