@@ -1,4 +1,4 @@
-package forlloopprograms;
+package Whileloop;
 
 public class WhileInReverseOrder {
     public static void main(String[] args){

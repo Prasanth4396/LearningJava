@@ -1,4 +1,4 @@
-package forlloopprograms;
+package Whileloop;
 
 import java.util.Scanner;
 

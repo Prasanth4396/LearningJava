@@ -1,6 +1,4 @@
-package forlloopprograms;
-
-import java.util.Scanner;
+package Whileloop;
 
 public class WhileSoft {
     public static void main(String[] args){

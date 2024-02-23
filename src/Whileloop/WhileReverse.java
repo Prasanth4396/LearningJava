@@ -1,6 +1,6 @@
-package forlloopprograms;
+package Whileloop;
 
-public class WhileLoopReverse {
+public class WhileReverse {
     public static void main(String[] args){
         int n=4136,lastDigit;
         int rev=0;
@@ -10,5 +10,5 @@ public class WhileLoopReverse {
            n=n/10;
        }
         System.out.println(rev);
-    }   
+    }
 }
