@@ -6,9 +6,7 @@ public class LargestSmallestElement {
             if (numbers[i] > largest) {
                largest=numbers[i];
             }
-
         }
         System.out.print("largest number is "+ largest);
     }
-
 }
