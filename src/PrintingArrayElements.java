@@ -1,4 +1,4 @@
-public class TestArray {
+public class PrintingArrayElements {
     public static void main(String[] args){
         int[] a=new int[5]; //declaration and instantiation
         a[0]=10; //initialization
