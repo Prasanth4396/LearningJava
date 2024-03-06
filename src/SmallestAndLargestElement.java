@@ -9,7 +9,6 @@ public class SmallestAndLargestElement {
                 System.out.println(num);
             }
         }
-
         int largest   =numbers[0];
         int smallest  =numbers[0];
 
