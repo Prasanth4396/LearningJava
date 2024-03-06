@@ -12,5 +12,6 @@ public class SpecificElement {
                 break;
             }
         }
+        System.out.println("Element is not found in the Array ");
     }
 }
