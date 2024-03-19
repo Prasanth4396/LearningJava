@@ -15,9 +15,9 @@ public class LocalVariableExample2 {
         }
 
        for(int i=0;i<3;i++){
-           String loop ="iteration ";
-           System.out.println(loop + i);//loop is local variable
+           String loop ="iteration "+ i;
+           System.out.println(loop);//loop is local variable
 
-       }
+}
     }
 }
